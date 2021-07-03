@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is a simple bmi calculator.Given weight and height it calculates your bmi and gives the result.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
